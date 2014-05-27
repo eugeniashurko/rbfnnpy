@@ -3,6 +3,10 @@ rbfnnpy
 
 **rbfnnpy** module is an implementation of RBF Neural Network model training, dump and prediction for Python.
 
+## Requirements
+  - NumPy
+  - h5py
+
 ## Examples
 
 Files for model training: 
