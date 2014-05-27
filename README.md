@@ -3,4 +3,7 @@ rbfnnpy
 
 Radial Basis Function Neural Network implementation for Python.
 
-= Examples =
+## Examples
+    python 'train_predict.py'
+
+
